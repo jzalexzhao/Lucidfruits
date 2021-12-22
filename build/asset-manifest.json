@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Lucidfruits/static/css/main.6dcb90cb.chunk.css",
+    "main.js": "/Lucidfruits/static/js/main.2feb5a36.chunk.js",
+    "main.js.map": "/Lucidfruits/static/js/main.2feb5a36.chunk.js.map",
+    "runtime-main.js": "/Lucidfruits/static/js/runtime-main.d430c63b.js",
+    "runtime-main.js.map": "/Lucidfruits/static/js/runtime-main.d430c63b.js.map",
+    "static/js/2.f34f5631.chunk.js": "/Lucidfruits/static/js/2.f34f5631.chunk.js",
+    "static/js/2.f34f5631.chunk.js.map": "/Lucidfruits/static/js/2.f34f5631.chunk.js.map",
+    "static/js/3.353fc368.chunk.js": "/Lucidfruits/static/js/3.353fc368.chunk.js",
+    "static/js/3.353fc368.chunk.js.map": "/Lucidfruits/static/js/3.353fc368.chunk.js.map",
+    "index.html": "/Lucidfruits/index.html",
+    "static/css/main.6dcb90cb.chunk.css.map": "/Lucidfruits/static/css/main.6dcb90cb.chunk.css.map",
+    "static/js/2.f34f5631.chunk.js.LICENSE.txt": "/Lucidfruits/static/js/2.f34f5631.chunk.js.LICENSE.txt",
+    "static/media/3RDEYES.536c0388.png": "/Lucidfruits/static/media/3RDEYES.536c0388.png",
+    "static/media/BackgroundsRarity.9d2d5e47.png": "/Lucidfruits/static/media/BackgroundsRarity.9d2d5e47.png",
+    "static/media/EYEBALLS.6c1854b1.png": "/Lucidfruits/static/media/EYEBALLS.6c1854b1.png",
+    "static/media/FAQ_SECTION.06d9b731.png": "/Lucidfruits/static/media/FAQ_SECTION.06d9b731.png",
+    "static/media/FRUIT_SKINS_RARITY.238f1dad.png": "/Lucidfruits/static/media/FRUIT_SKINS_RARITY.238f1dad.png",
+    "static/media/HATS.55001e05.png": "/Lucidfruits/static/media/HATS.55001e05.png",
+    "static/media/MOUTH.967ead71.png": "/Lucidfruits/static/media/MOUTH.967ead71.png",
+    "static/media/ROADMAP_SECTION.071f056d.png": "/Lucidfruits/static/media/ROADMAP_SECTION.071f056d.png",
+    "static/media/SMOKERS_SECTION.540f6b3d.png": "/Lucidfruits/static/media/SMOKERS_SECTION.540f6b3d.png",
+    "static/media/Story_board.b27313e5.png": "/Lucidfruits/static/media/Story_board.b27313e5.png",
+    "static/media/TRF.869625f8.png": "/Lucidfruits/static/media/TRF.869625f8.png",
+    "static/media/WORMS.2e0ebd95.png": "/Lucidfruits/static/media/WORMS.2e0ebd95.png",
+    "static/media/background.4f87bafc.png": "/Lucidfruits/static/media/background.4f87bafc.png",
+    "static/media/logo.63f251a3.png": "/Lucidfruits/static/media/logo.63f251a3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d430c63b.js",
+    "static/js/2.f34f5631.chunk.js",
+    "static/css/main.6dcb90cb.chunk.css",
+    "static/js/main.2feb5a36.chunk.js"
+  ]
+}
